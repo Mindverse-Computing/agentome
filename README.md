@@ -1,5 +1,5 @@
 
-# Agentome: A Spectral Multi-Agent AI System with SPX over Google ADK
+# Agentome: A Multi-Agent AI System with Syncronization Protocol for Exchange (SPX) implementing Google ADK
 
 **Agentome** is a simulation framework for exploring multi-agent AI systems where agent activation and interaction are driven by the spectral dynamics (eigenvalues and eigenvectors) of a time-evolving complex Hermitian graph. It leverages concepts from Google's Agent Development Kit (ADK) for agent structure, tool usage (via MCP), and inter-agent communication (via A2A), and implements a custom Synchronization Protocol for Exchange (SPX) for emergent coordinated behaviors.
 
